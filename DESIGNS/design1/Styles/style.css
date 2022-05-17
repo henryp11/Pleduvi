@@ -12,7 +12,7 @@ html {
   ); */
   --color-menu: linear-gradient(
     to right,
-    rgba(35, 220, 35, 1),
+    rgba(129, 222, 0, 1),
     rgba(43, 76, 111, 0.8) 60%
   );
   --color-categoryHover: linear-gradient(
